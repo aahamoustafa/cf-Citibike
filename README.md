@@ -33,6 +33,9 @@ This study aims to answer the following questions:
 
 
 ## **📊 Key Insights from the Analysis**
+
+**Check out the Tableau Dashboard**: [Citibike Story](https://public.tableau.com/app/profile/abdelrahman.moustafa7565/viz/CitiBikeWorkbook_17390447645370/Story1)
+
 ### **1️⃣ Citibike is primarily used for commuting** 🚲
 - **Peak usage occurs at 8 AM and 5-7 PM**, aligning with work commute hours.
 - **Subscribers take shorter trips (~12 min),** indicating daily use for short-distance travel.
@@ -50,38 +53,39 @@ This study aims to answer the following questions:
 - Both user types heavily use **Central Park, Downtown Manhattan, and Waterfront areas**.
 - **This suggests that Citibike is used both for commuting and leisure.**
 
-Check out the Tableau Dashboard: [Citibike Story](https://public.tableau.com/app/profile/abdelrahman.moustafa7565/viz/CitiBikeWorkbook_17390447645370/Story1)
+---
 
 ## **📢 Recommendations for Citibike**
-📌 **1. Optimize bike availability during peak commuting hours.**
+ **1. Optimize bike availability during peak commuting hours.**
    - Ensure **high bike supply** between **7-9 AM and 5-7 PM**.
 
-📌 **2. Expand station coverage in high-demand areas.**
+ **2. Expand station coverage in high-demand areas.**
    - Increase docking stations in **Midtown & Downtown Manhattan**.
 
-📌 **3. Implement dynamic pricing strategies.**
+ **3. Implement dynamic pricing strategies.**
    - Offer **discounts for weekend rides** to encourage casual users.
    - Increase **subscription incentives** to retain regular commuters.
 
-📌 **4. Improve bike redistribution logistics.**
+ **4. Improve bike redistribution logistics.**
    - Use real-time demand prediction to **relocate bikes more efficiently**.
 
-📌 **5. Launch targeted marketing for different user types.**
+ **5. Launch targeted marketing for different user types.**
    - Promote **membership benefits** to frequent users.
    - Advertise **tourist-friendly routes & pricing** to casual riders.
 
+---
 
 ## **⚠️ Limitations & Future Considerations**
-📌 **1. Weather Impact Not Considered** 🌦️
+ **1. Weather Impact Not Considered** 🌦️
 - Citibike usage is **likely affected by weather conditions**, but this analysis does not include weather data.
 
-📌 **2. Traffic Congestion Not Integrated** 🚦
+ **2. Traffic Congestion Not Integrated** 🚦
 - The study does not assess **how Citibike usage fluctuates with subway delays or road congestion**.
 
-📌 **3. Sampled Data May Exclude Certain Trends** 📊
+ **3. Sampled Data May Exclude Certain Trends** 📊
 - The dataset represents only **0.01% of total trips**, meaning **some granular trends may not be captured**.
 
-📌 **4. No Seasonal Analysis** 🍂❄️☀️
+ **4. No Seasonal Analysis** 🍂❄️☀️
 - This study does not differentiate usage trends across **summer, winter, or major city events**.
 
 ### **🔍 Next Steps for Deeper Insights**
