@@ -34,7 +34,7 @@ This study aims to answer the following questions:
 
 ## **📊 Key Insights from the Analysis**
 
-**Check out the Tableau Dashboard**: [Citibike Story](https://public.tableau.com/app/profile/abdelrahman.moustafa7565/viz/CitiBikeWorkbook_17390447645370/Story1)
+[**Check out the CitiBike Tableau Story**](https://public.tableau.com/app/profile/abdelrahman.moustafa7565/viz/CitiBikesUserAnalysis/Story1)
 
 ### **1️⃣ Citibike is primarily used for commuting** 🚲
 - **Peak usage occurs at 8 AM and 5-7 PM**, aligning with work commute hours.
